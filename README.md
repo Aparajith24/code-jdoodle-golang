@@ -17,11 +17,6 @@ This is a simple HTTP server built in Go that executes code snippets via the JDo
 ## Installation
 
 1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/go-code-execution-service.git
-    cd go-code-execution-service
-    ```
-
 2. Set up your JDoodle credentials by replacing the placeholders in the `JDoodleRequest` struct in the `main.go` file:
     ```go
     ClientID:     "your_client_id",
