@@ -33,10 +33,6 @@ This is a simple HTTP server built in Go that executes code snippets via the JDo
     go run main.go
     ```
 
-## Usage
-
-Once the server is running, you can interact with it by sending POST requests to the `/compile` endpoint.
-
 ### Example Usage
 
 You will be prompted to enter:
